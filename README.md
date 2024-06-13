@@ -8,6 +8,7 @@
  <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
  <img src="https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=PHP&logoColor=white"/>
  <img src="https://shields.io/badge/MySQL-F29111?style=flat-square&logo=mysql&logoColor=white&labelColor=blue"/>
+ <img src="https://shields.io/badge/Laravel-FB503B?style=flat-square&logo=laravel&logoColor=FB503B&labelColor=white"/>
  </p>
  </p>
 <!--
