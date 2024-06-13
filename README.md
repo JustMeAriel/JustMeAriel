@@ -7,6 +7,7 @@
  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
  <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
  <img src="https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=PHP&logoColor=white"/>
+ <img src="https://shields.io/badge/MySQL-F29111?style=flat-square&logo=mysql&logoColor=white&labelColor=blue"/>
  </p>
  </p>
 <!--
