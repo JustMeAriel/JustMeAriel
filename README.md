@@ -1,5 +1,6 @@
 <img src="https://tenor.com/view/mythia-miti-mythia-batford-haha-vtuber-gif-25668498.gif" width="500" />
-## 👋 Hi there, I'm **Ariel Eka Satriatama**
+
+# 👋 Hi there, I'm **Ariel Eka Satriatama**
 
 <p>
   <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=JustMeAriel&show_icons=true&hide_border=false&line_height=22&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
