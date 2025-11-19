@@ -1,3 +1,4 @@
+<img src="https://tenor.com/view/mythia-miti-mythia-batford-haha-vtuber-gif-25668498.gif" width="500" />
 # 👋 Hi there, I'm **Ariel Eka Satriatama**
 
 <p>
