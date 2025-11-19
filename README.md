@@ -41,7 +41,8 @@ Beberapa projek yang pernah atau sedang saya kerjakan:
 
 ## 📫 Reach Me
 - Email: **arieleka058@gmail.com**  
-- Instagram / LinkedIn (opsional, bisa saya tambahkan kalau mau)
+-Linkedin: Ariel Eka Satriatama
+- Instagram: rielkae_
 
 
 ## ⚡ Fun Facts
