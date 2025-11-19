@@ -1,3 +1,7 @@
+💫 Hi there, I'm Ariel Eka Satriatama
+<p> <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=JustMeAriel&show_icons=true&hide_border=false&line_height=22&title_color=f69673&icon_color=1b93c9&show_owner=true"/> </p>
+
+<br><br><br><br>
 ## Hi there 👋, I'm Ariel Eka Satriatama
 
 <br>
